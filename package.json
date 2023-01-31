@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "punycode": "^1.4.1",
+    "querystring-es3": "^0.2.1"
+  },
+  "dependencies": {
+    "pixi.js": "^7.1.1"
+  },
+  "scripts": {
+    "run": "npx parcel src/index.html"
+  }
+}
